@@ -8,3 +8,4 @@ Thành viên nhóm:
 
 
 link worksheet: [tại đây](https://docs.google.com/spreadsheets/d/1tdWp6aJnrR4UV5x_fC8BO6GVHMfmNBgXQM3cjy6QAWs/edit?usp=sharing)  
+link slide: [tại đây]([https://docs.google.com/spreadsheets/d/1tdWp6aJnrR4UV5x_fC8BO6GVHMfmNBgXQM3cjy6QAWs/edit?usp=sharing](https://docs.google.com/presentation/d/1AAN4LnAXLxfcounPegCEAchn8og3gXiO/edit?usp=sharing&ouid=115973130149212439993&rtpof=true&sd=true))  
